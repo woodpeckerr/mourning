@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "zip": "gulp pack.zip"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-zip": "^4.0.0"
+  }
+}
