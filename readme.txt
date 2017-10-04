@@ -56,7 +56,6 @@ Not available
 = 1.0.1 (04 Oct 2017) =
 * Disable debug mode
 * Change plugin setting page's slug
-* Update `readme.txt`
 
 = 1.0.0 (04 Oct 2017) =
 * First release
