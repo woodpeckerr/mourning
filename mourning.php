@@ -29,8 +29,8 @@ class MrnMourningFieldKey {
 class MrnMourning {
 
   public function __construct() {
-    $this->is_debug           = true;
-    $this->menu_page          = 'mourning';
+    $this->is_debug           = false;
+    $this->menu_page          = 'mrn-mourning';
     $this->option_group_name  = 'mrn_option_group';
     $this->option_field_name  = 'mrn_option_field';
     $this->setting_section_id = 'mrn_setting_section_id';
