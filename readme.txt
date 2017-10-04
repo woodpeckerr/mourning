@@ -64,7 +64,7 @@ Not available
 
 * [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards)
 * 2 spaces for indent
-* [Repository on Github](https://github.com/jojoee/mourning)
+* [Repository on Github](https://github.com/woodpeckerr/mourning)
 
 = TODO =
 
