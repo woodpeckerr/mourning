@@ -15,3 +15,6 @@ package-lock.json
 # dist
 mourning-*
 *.zip
+
+# bk
+bk
