@@ -73,6 +73,12 @@ Not available
 * [ ] Grey out switcher
 * [ ] Valid input on admin board
 
+= Contributor =
+
+1. Install `Node.js`
+2. `npm install`
+3. `npm run zip` to pack the plugin
+
 = Thank you =
 * [WordPress Plugin readme.txt Validator](https://wordpress.org/plugins/about/validator/)
 * [Autoprefixer CSS online](https://autoprefixer.github.io/)
