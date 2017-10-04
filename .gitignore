@@ -1,0 +1,13 @@
+# dependency
+node_modules
+bower_components
+
+# ide
+.idea
+
+# log
+*.log
+
+# lock
+yarn.lock
+package-lock.json
