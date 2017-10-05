@@ -2,7 +2,7 @@
 
 Contributors: jojoee, nannstudio
 Donate link:
-Tags: grayscale, black, white, black and white, watermark, ribbon, black ribbon, filter
+Tags: remembrance, mourning, grey, grayscale, condolence, grayscale, black, white, black and white, watermark, ribbon, black ribbon, filter
 Requires at least: 3.0.1
 Tested up to: 4.6.1
 Stable tag: 4.3
@@ -52,6 +52,9 @@ it add `css` filter property into `body`
 Not available
 
 == Changelog ==
+
+= 1.0.3 (05 Oct 2017) =
+* Update tag
 
 = 1.0.2 (05 Oct 2017) =
 * Refactor

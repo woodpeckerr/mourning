@@ -3,7 +3,7 @@
 Plugin Name: Mourning
 Plugin URI: https://github.com/woodpeckerr/mourning
 Description: Plugin for mourning, add black ribbon and grey out the website
-Version: 1.0.2
+Version: 1.0.3
 Author: Woodpeckerr
 Author URI: https://github.com/woodpeckerr
 Text Domain: mrn
