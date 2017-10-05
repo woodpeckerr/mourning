@@ -53,6 +53,9 @@ Not available
 
 == Changelog ==
 
+= 1.0.2 (05 Oct 2017) =
+* Refactor
+
 = 1.0.1 (04 Oct 2017) =
 * Disable debug mode
 * Change plugin setting page's slug
